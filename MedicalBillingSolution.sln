@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalBilling", "MedicalBilling\MedicalBilling.csproj", "{D36DFBD1-4279-4E1C-9829-962CEC47EF90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalBilling.Tests", "MedicalBilling.Tests\MedicalBilling.Tests.csproj", "{221C9557-2A20-46EC-ACA3-267DBFDE47EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D36DFBD1-4279-4E1C-9829-962CEC47EF90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36DFBD1-4279-4E1C-9829-962CEC47EF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36DFBD1-4279-4E1C-9829-962CEC47EF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36DFBD1-4279-4E1C-9829-962CEC47EF90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221C9557-2A20-46EC-ACA3-267DBFDE47EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221C9557-2A20-46EC-ACA3-267DBFDE47EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221C9557-2A20-46EC-ACA3-267DBFDE47EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221C9557-2A20-46EC-ACA3-267DBFDE47EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
