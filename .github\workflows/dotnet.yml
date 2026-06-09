@@ -27,3 +27,4 @@ jobs:
 
     - name: Test
       run: dotnet test MedicalBilling.Tests/MedicalBilling.Tests.csproj --configuration Release --no-build
+
